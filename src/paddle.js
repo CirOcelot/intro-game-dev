@@ -1,3 +1,5 @@
+import "index.js";
+
 class Paddle {
 	constructor(gameWidth, gameHeight){
 this.width = 150;
